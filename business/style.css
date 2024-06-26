@@ -363,6 +363,7 @@
   text-align: center;
   letter-spacing: 0;
   line-height: 28.8px;
+  top: -28px;
 }
 
 .element .frame-4 {
@@ -400,6 +401,7 @@
   letter-spacing: 0;
   line-height: 15.6px;
   white-space: nowrap;
+  top: -20px;
 }
 
 .element .frame-5 {
@@ -445,6 +447,7 @@
   font-family: "MiSans-Medium", Helvetica;
   font-weight: 500;
   letter-spacing: 0;
+  top: -20px;
 }
 
 .element .frame-7 {
@@ -494,6 +497,7 @@
   text-align: center;
   letter-spacing: 0;
   line-height: 33.6px;
+  top: -28px;
 }
 
 .element .text-wrapper-6 {
